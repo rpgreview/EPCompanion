@@ -1,0 +1,2 @@
+# EPCompanion
+Eclipse Phase Companion
