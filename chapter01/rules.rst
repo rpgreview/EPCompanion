@@ -66,3 +66,21 @@ Every character should be awarded Rez Point for each of the following criteria t
 * The player engaged in good roleplaying in the session (-1 to +1).
 * The player significantly contributed to the session's drama, humor, or fun with roleplaying (-1 to +1).
 
+Eclipse Phase Companion - Editing and Merging
+---------------------------------------------
+ 
+| Time Apart     | Modifier | Success        	        | Failure                           |
+|----------------|----------|---------------------------|-----------------------------------|
+| under 1 Hour   | +30      | Memories intact from both | Memories intact, 1d10/2,-1 SV     |
+| 1-4 Hours      | +20      | Memories intact           | Memories intact, 1d10/2  SV       |
+| 4-12 Hours     | +10      | Memories intact, 1 SV     | Minor Memory Loss, 1d10/2 SV      |
+| 12 hours- 1 day| +0       | Memories intact, 2 SV     | Minor Memory Loss, 1d10/2 +2 SV   |
+| 1day-3 days    | -10      | Memories intact, 3 SV     | Moderate memory loss, 1d10+2 SV   |
+| 3 days-1 week  | -20      | Memories intact, 4 SV     | Moderate memory loss, 1d10+4 SV   |
+| 1 week-1 month | -30      | Minor memory loss, 5 SV   | Major memory loss, 1d10+6 SV      |
+| 1 month-1 year | -40      | Minor memory loss, 6 SV   | Major memory loss, 1d10+8 SV      |
+| 1 year-5 years | -50      | Minor memory loss, 7 SV   | Severe memory loss, 1d10+8 SV     |
+| 5 years+	 | -60      | Moderate memory loss, 8 SV| Severe memory loss, 1d10+10 SV    |
+
+Different egos count as 5+ separation.
+
