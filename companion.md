@@ -47,7 +47,6 @@ Proposed new rule: Morph insurance depend on how much you want to insure it for 
 
 ### Time Dilation in VR
 
-
 "Time itself is an adjustable constant in VR, though deviation from true time has its limits. So far, transhuman designers have achieved time dilation up to 60 times faster or slower than real time (roughly one minute equaling either one hour or one second). Time slowdown is far more commonly used, granting more time for simulspace recreational activities (more time, more fun!), learning, or work (economically effective). Time acceleration, on the other hand, is extremely useful for making long distance travel through space more tolerable." p241.
 
 A player in my game today argued that they be able to put their ego (and forks) in a simulspace VR environment and engage in a programming task 60 times faster than in real space, per ego and fork.
@@ -94,7 +93,7 @@ Every character should be awarded Rez Point for each of the following criteria t
 * The player engaged in good roleplaying in the session (-1 to +1).
 * The player significantly contributed to the session's drama, humor, or fun with roleplaying (-1 to +1).
 
-# Eclipse Phase Companion - Editing and Merging
+### Eclipse Phase Companion - Editing and Merging
  
 | Time Apart     | Modifier | Success        	        | Failure                           |
 |----------------|----------|---------------------------|-----------------------------------|
@@ -111,6 +110,22 @@ Every character should be awarded Rez Point for each of the following criteria t
 
 Different egos count as 5+ separation.
 
+### Sensors in Space
+
+A basic reality in space is that with the right sensors you can detect objects from a very long distance. Whilst there is much to be said for the visual excitement of space combat that looks like something out of a Star Wars or Star Trek film, a more realistic example would be "Ship A detects Ship B at well-beyond transhuman visual range and destroys it". 
+
+There are two broad categories of sensor from the user's point of view; active and passive. Active sensors are like a flashlight - they're pretty good at illuminating the object of the illumination, and they're also pretty good at illuminating the subject who is using the flashlight. Passive sensors are like most types of normal perception; sight is passive, hearing is passive etc. The subject using the sensor doesn't send out a beacon that they're searching for something. Heat sensors are passive; telescopes are passive. Something that sends out a ping to to detect an object and then works it out from the return is active, such as radar, sonar, and lidar.
+
+Use of active sensors is very useful, but it illuminates the subject. This leads to a game of "wild weasel" as the US air-force has coined it. The following is from <a href="https://en.wikipedia.org/wiki/Wild_Weasel">our friends at Wikipedia</a>, and beautifully illustrated the game the follows:
+
+```
+In brief, the task of a Wild Weasel aircraft is to bait enemy anti-aircraft defenses into targeting it with their radars, whereupon the radar waves are traced back to their source, allowing the Weasel or its teammates to precisely target it for destruction. A simple analogy is playing the game of "flashlight tag" in the dark; a flashlight is usually the only reliable means of identifying someone in order to "tag" (destroy) them, but the light immediately renders the bearer able to be identified and attacked as well. The result is a hectic game of cat-and-mouse in which the radar "flashlights" are rapidly cycled on and off in an attempt to identify and kill the target before the target is able to home in on the emitted radar "light" and destroy the site. 
+```
+
+Passive sensors are very effective in space as well. Spacecraft tend to generate heat; and any infra-red radiation can be detected. Pinpointing the location becomes a lot easier with multiple detectors and triangulation.
+
+
 ## 3.0 Companion Setting
 
 ## 4.0 Companion Scenarios
+
