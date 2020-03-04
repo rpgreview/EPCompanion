@@ -72,7 +72,6 @@ Basically, by using the same processing power as a cyberbrain/module you could a
 
 ### Negative and Bonus Rez Points
 
-
 The standard rules for Eclipse Phase provides Rez Points if "The character achieved a motivational goal" (p384). Motivational goals are defined (p120) as abstract ideals of concrete goals, and may be expressed as being in favour (+) or opposed to (-) the specific motivation.
 
 On occassion however the course of an adventure may result in the radical opposite of their motivation. A character may have a motivational goal as being opposed to becoming famous (i.e., -Fame). In such situations there is some justifiction according to the game's logic, to apply a negative Rez Point.
@@ -123,6 +122,12 @@ In brief, the task of a Wild Weasel aircraft is to bait enemy anti-aircraft defe
 ```
 
 Passive sensors are very effective in space as well. Spacecraft tend to generate heat; and any infra-red radiation can be detected. Pinpointing the location becomes a lot easier with multiple detectors and triangulation.
+
+The general principles for sensors is space is to test for as many frequencies as possible across the spectrum (radar, radiation, infrared) and the capacity to detect is subject to an inverse square law; i.e., 1/r^2 for passive sensors and 1/r^4 for active sensors - and active sensors take twice as long to receive the data. The system has to "ping" and receive the return information. The effective (engineering) cost for passive sensors is an eight-times cost for a doubling of range. But detecting first is everything, right?
+
+One usual method for tricking sensors is to create decoys. This doesn't work terribly well for spacecraft as the size and momentum has to correlate to trick the sensor, which can be very expensive if you want to create a decoy of a Destroyer, for example. You would need something that is the size and mass of 2,000-tons that creates the signature of anti-matter drive. A static decoy is far less expensive; it just needs to be about the right size.
+
+For more glorious detail on this subject see: "Detection" on Project Rho http://www.projectrho.com/public_html/rocket/spacewardetect.php
 
 
 ## 3.0 Companion Setting
