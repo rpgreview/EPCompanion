@@ -127,7 +127,20 @@ The general principles for sensors is space is to test for as many frequencies a
 
 One usual method for tricking sensors is to create decoys. This doesn't work terribly well for spacecraft as the size and momentum has to correlate to trick the sensor, which can be very expensive if you want to create a decoy of a Destroyer, for example. You would need something that is the size and mass of 2,000-tons that creates the signature of anti-matter drive. A static decoy is far less expensive; it just needs to be about the right size.
 
-For more glorious detail on this subject see: "Detection" on Project Rho http://www.projectrho.com/public_html/rocket/spacewardetect.php
+For more glorious detail on this subject see: "Detection" on Project Rho (http://www.projectrho.com/public_html/rocket/spacewardetect.php). The following is an illustrative comment:
+
+```
+As of 2013, the Voyager 1 space probe is about 18 billion kilometers away from Terra and its radio signal is a pathetic 20 watts (or about as dim as the light bulb in your refrigerator). But as faint as it is, the Green Bank telescope can pick it out from the background noise in one second flat.
+```
+### Surya
+
+Surya movement has also been raised. Normally, when the physics of motion is applied there is a force acting against a mass. This remains true for a Case walking on Luna, a Bouncer on Locus, or even a Cloud Skate on a gas giant. But what about the Surya? We are told they "surf the solar wind" (p99 Morph Recognition Guide) but the winds only blow outwards. Taking a technique from sailing, Surya can move (slowly) against the solar winds by tacking. By applying their fins in one direction then they other in a zig-zag motion, they can travel at 1/4 of their normal pace against the wind.
+
+In addition, Surya also have reaction mass, which can bring this movement up to 1/2. Rather like how massive blue whales subsist on microscopic plankton, Surya gain energy from eating microscopic plasma from the sun's atmosphere. Obviously their internal organs have been very well-designed to manage this.
+
+Also: https://www.eclipsephase.com/not-getting-surya
+
+
 
 
 ## 3.0 Companion Setting
