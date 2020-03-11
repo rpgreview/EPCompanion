@@ -134,9 +134,7 @@ As of 2013, the Voyager 1 space probe is about 18 billion kilometers away from T
 ```
 ### Surya
 
-Surya movement has also been raised. Normally, when the physics of motion is applied there is a force acting against a mass. This remains true for a Case walking on Luna, a Bouncer on Locus, or even a Cloud Skate on a gas giant. But what about the Surya? We are told they "surf the solar wind" (p99 Morph Recognition Guide) but the winds only blow outwards. Taking a technique from sailing, Surya can move (slowly) against the solar winds by tacking. By applying their fins in one direction then they other in a zig-zag motion, they can travel at 1/4 of their normal pace against the wind.
-
-In addition, Surya also have reaction mass, which can bring this movement up to 1/2. Rather like how massive blue whales subsist on microscopic plankton, Surya gain energy from eating microscopic plasma from the sun's atmosphere. Obviously their internal organs have been very well-designed to manage this.
+Surya movement has also been raised. Normally, when the physics of motion is applied there is a force acting against a mass. This remains true for a Case walking on Luna, a Bouncer on Locus, or even a Cloud Skate on a gas giant. But what about the Surya? We are told they "surf the solar wind" (p99 Morph Recognition Guide) but the winds only blow outwards, and it's not exactly strong enough to counter the impressive effects of gravity. Tacking is not a plausible option. Therefore Surya also have reaction mass, which can bring this movement up to 1/2 when travelling with the solar wind. Rather like how massive blue whales subsist on microscopic plankton, Surya gain energy from eating microscopic plasma from the sun's atmosphere. Obviously their internal organs have been very well-designed to manage this.
 
 Also: https://www.eclipsephase.com/not-getting-surya
 
